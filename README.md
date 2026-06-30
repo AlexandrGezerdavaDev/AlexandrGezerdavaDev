@@ -1,11 +1,59 @@
-# Hi, I'm Alexandr Gezerdava! 🚀
+Hi, I'm Oleksandr Gezerdava 👋
 
-I'm a Software Engineer from Earth 🌍 (but coding for Mars! 🪐). With a Master's in Software Engineering, I build IoT pipelines and cloud systems, dreaming of powering SpaceX's Martian colonies with my code. Let's make humanity multi-planetary! 🌌
+Software Engineer with a multidisciplinary background spanning law, software engineering, and innovation development in defense and dual-use technologies.
 
-- 🌟 **Currently crafting**: IoT pipelines with Kafka, microservices in Kubernetes, and orbital simulations in C++.
-- 💻 **Tech Stack**: Python, C++, Java, Docker, Kubernetes, Kafka.
-- 🎓 **Education**: Master's in Software Engineering from Taras Shevchenko National University (WES-verified).
-- 🛠️ **Mission**: Writing scalable code to support life on Mars and beyond! 🔴
-- 📫 **Reach me**: oleksandrgezerdava@gmail.com
+I specialize in building and supporting systems across distributed infrastructure, IoT, and applied AI-driven solutions.
 
-Explore my pinned repos below to see my Martian-grade projects! 📡
+---
+
+## 💼 Professional Background
+
+I hold degrees in:
+- Law — Taras Shevchenko National University of Kyiv
+- Software Engineering — Taras Shevchenko National University of Kyiv
+
+I previously worked at an innovation development fund, supporting early-stage startups in:
+- Defense technologies (UAS/drones, EW systems, robotic platforms, AI solutions)
+- Civil sectors (medical technologies, energy systems, applied R&D)
+
+---
+
+## 🛠 Tech Stack
+
+### Backend & Cloud
+Python · Node.js (Next.js / React / TypeScript) · PostgreSQL
+
+### Infrastructure
+Docker · Kubernetes · Proxmox · TrueNAS SCALE · Home Assistant
+
+### Systems & Hardware
+ESP32 · Raspberry Pi · Orange Pi · IoT & embedded systems
+
+---
+
+## 🔬 Interests
+
+- Distributed systems & event-driven architectures (Kafka, microservices)
+- IoT & robotics systems (drones, embedded devices, automation)
+- Data-driven applications in healthcare and energy
+- Applied AI for engineering and analytics
+- Aerospace & space systems software engineering
+
+---
+
+## 🚀 Current Focus
+
+- Building full-stack IoT + backend systems
+- Exploring embedded systems for robotics and drones
+- Working with medical and structured data in Python
+- Home lab infrastructure (Proxmox, NAS, automation systems)
+
+---
+
+## 📫 Contact
+
+Email: oleksandrgezerdava@gmail.com
+
+---
+
+🚀 Featured projects below
